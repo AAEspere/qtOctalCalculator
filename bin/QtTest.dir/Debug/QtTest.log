@@ -1,0 +1,9 @@
+﻿  Generating ui_qtprogramwin.h
+  Generating moc_qtprogramwin.cpp
+  Building Custom Rule C:/Users/Aaron/Documents/CSC 4110/Espere_A5/QtHelloWorldQt5/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Aaron/Documents/CSC 4110/Calculator/QtHelloWorldQt5/bin/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  qtprogramwin.cpp
+  moc_qtprogramwin.cpp
+  Generating Code...
+  QtTest.vcxproj -> C:\Users\Aaron\Documents\CSC 4110\Calculator\QtHelloWorldQt5\bin\Debug\QtTest.exe

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aaron\Documents\CSC 4110\Espere_A5\QtHelloWorldQt5\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aaron\Documents\CSC 4110\Espere_A5\QtHelloWorldQt5\qtprogramwin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aaron\Documents\CSC 4110\Calculator\QtHelloWorldQt5\bin\moc_qtprogramwin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Aaron\Documents\CSC 4110\Calculator\QtHelloWorldQt5\bin\ui_qtprogramwin.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aaron\Documents\CSC 4110\Espere_A5\QtHelloWorldQt5\qtprogramwin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aaron\Documents\CSC 4110\Espere_A5\QtHelloWorldQt5\qtprogramwin.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aaron\Documents\CSC 4110\Calculator\QtHelloWorldQt5\bin\CMakeFiles\3f91a727698fb7f82a0209f5872f1bae\moc_qtprogramwin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aaron\Documents\CSC 4110\Espere_A5\QtHelloWorldQt5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0D641A16-2F88-395D-A143-F641C2768656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{2C15EC6C-36A3-3CEA-A435-C222A3E822FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B413F77C-8342-3AC1-8E45-941446D0377C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{7547F613-4CE6-3CD1-BBD6-21F68A98319B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{85BD0835-A338-3902-B6DB-5DC805018D18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

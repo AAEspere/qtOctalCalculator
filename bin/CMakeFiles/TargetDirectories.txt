@@ -1,0 +1,3 @@
+C:/Users/Aaron/Documents/CSC 4110/Calculator/QtHelloWorldQt5/bin/CMakeFiles/QtTest.dir
+C:/Users/Aaron/Documents/CSC 4110/Calculator/QtHelloWorldQt5/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Aaron/Documents/CSC 4110/Calculator/QtHelloWorldQt5/bin/CMakeFiles/ZERO_CHECK.dir
